@@ -1,0 +1,25 @@
+h2{
+  font-family: Arial;
+  color:antiquewhite
+  background-color;black
+}
+
+  body {
+    background-color: rgb(202, 185, 194);
+  }
+
+
+ul{
+    list-style-image: url('pointer-icon.png');
+  }
+
+#menu-bar a{
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    padding: 5px;
+  }
+
+#menu-bar a:hover{
+    background-color: rgb(224, 177, 121);
+    color: black;
+  }
